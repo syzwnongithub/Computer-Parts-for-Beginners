@@ -9,13 +9,6 @@ use DB;
 $GLOBALS['filteredpresets'] = '';
 class PresetsController extends Controller
 {
-
-    public function index()
-    {
-        $presets = preset::all();
-        return view ('pcpopularpreset', compact ('presets'));
-    }
-
     public function budget(Request $request)
     {
 

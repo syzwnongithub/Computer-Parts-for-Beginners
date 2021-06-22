@@ -1,0 +1,16 @@
+INSERT INTO `storages` (`id`, `name`, `capacity`, `form_factor`, `type`, `price`, `created_at`, `updated_at`) VALUES
+(1, 'Samsung 860 Evo', '1 TB', '2.5\"', 'SSD', 109.99, NULL, NULL),
+(2, 'Seagate Barracuda Compute', '2 TB', '3.5\"', '7200RPM', 55.49, NULL, NULL),
+(3, 'Western Digital Blue SN550', '1 TB', 'M.2-2280', 'SSD', 109.99, NULL, NULL),
+(4, 'Samsung 970 Evo', '500 GB', 'M.2-2280', 'SSD', 79.99, NULL, NULL),
+(5, 'Samsung 980 Pro', '1 TB', 'M.2-2280', 'SSD', 209.99, NULL, NULL),
+(6, 'Western Digital Blue ', '500 GB ', 'M.2-2280', 'SSD', 55.99, NULL, NULL),
+(7, 'Western Digital Caviar Blue ', '1 TB ', '3.5\" ', '7200RPM', 42.99, NULL, NULL),
+(8, 'Kingston A400 ', '240 GB ', '2.5\"', 'SSD', 34.99, NULL, NULL),
+(9, 'Seagate BarraCuda ', '1 TB ', '3.5\" ', '7200RPM', 43.34, NULL, NULL),
+(10, 'Crucial P2 ', '500 GB ', 'M.2-2280', 'SSD', 59.99, NULL, NULL),
+(11, 'Angelbird ED381 ', '7.68 TB', '2.5\"', 'SSD', 6399.90, NULL, NULL),
+(12, 'Sabrent Rocket Q ', '8 TB ', 'M.2-2280', 'SSD', 1399.99, NULL, NULL),
+(13, 'Crucial MX500 ', '500 GB ', '2.5\"', 'SSD', 59.99, NULL, NULL),
+(14, 'ADATA XPG SX8200 Pro ', '1 TB ', 'M.2-2280', 'SSD', 129.94, NULL, NULL),
+(15, 'Corsair MP400 ', '8 TB ', 'M.2-2280', 'SSD', 1469.99, NULL, NULL);

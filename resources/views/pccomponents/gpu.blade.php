@@ -25,8 +25,8 @@
                     </h1>
                     <?php
                     $username = "root";
-                    $password = "root";
-                    $database = "cp4beginners";
+                    $password = "1913373";
+                    $database = "cp_db";
                     $mysqli = new mysqli("localhost", $username, $password, $database);
                     $query = "SELECT * FROM `gpus`";
 
